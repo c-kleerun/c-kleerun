@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Kristy @c-kleerun
+- 👀 I’m interested in data analytics, particularly the visualization aspect. I enjoy coding in Python and the use of HTML/CSS based dashboards
+- 🌱 I’m currently learning more about Python and HTML/CSS. I'm also interested in learning more about DOMO's platform.
+- 💞️ I’m looking to collaborate on data visualization projects
+- 📫 How to reach me kristy_allred@hotmail.com OR www.linkedin.com/in/kristy-allred-7410a51b8
